@@ -1,0 +1,307 @@
+fips,county_name,shortage_type,count
+17001,"Adams County, Illinois",Primary Care,2
+17001,"Adams County, Illinois",Dental,2
+17001,"Adams County, Illinois",Mental Health,2
+17003,"Alexander County, Illinois",Primary Care,0
+17003,"Alexander County, Illinois",Dental,2
+17003,"Alexander County, Illinois",Mental Health,1
+17005,"Bond County, Illinois",Primary Care,2
+17005,"Bond County, Illinois",Dental,2
+17005,"Bond County, Illinois",Mental Health,1
+17007,"Boone County, Illinois",Primary Care,2
+17007,"Boone County, Illinois",Dental,0
+17007,"Boone County, Illinois",Mental Health,0
+17009,"Brown County, Illinois",Primary Care,1
+17009,"Brown County, Illinois",Dental,1
+17009,"Brown County, Illinois",Mental Health,1
+17011,"Bureau County, Illinois",Primary Care,1
+17011,"Bureau County, Illinois",Dental,1
+17011,"Bureau County, Illinois",Mental Health,1
+17013,"Calhoun County, Illinois",Primary Care,1
+17013,"Calhoun County, Illinois",Dental,2
+17013,"Calhoun County, Illinois",Mental Health,1
+17015,"Carroll County, Illinois",Primary Care,1
+17015,"Carroll County, Illinois",Dental,1
+17015,"Carroll County, Illinois",Mental Health,1
+17017,"Cass County, Illinois",Primary Care,1
+17017,"Cass County, Illinois",Dental,2
+17017,"Cass County, Illinois",Mental Health,1
+17019,"Champaign County, Illinois",Primary Care,2
+17019,"Champaign County, Illinois",Dental,2
+17019,"Champaign County, Illinois",Mental Health,1
+17021,"Christian County, Illinois",Primary Care,2
+17021,"Christian County, Illinois",Dental,2
+17021,"Christian County, Illinois",Mental Health,1
+17023,"Clark County, Illinois",Primary Care,2
+17023,"Clark County, Illinois",Dental,2
+17023,"Clark County, Illinois",Mental Health,1
+17025,"Clay County, Illinois",Primary Care,1
+17025,"Clay County, Illinois",Dental,2
+17025,"Clay County, Illinois",Mental Health,1
+17027,"Clinton County, Illinois",Primary Care,1
+17027,"Clinton County, Illinois",Dental,2
+17027,"Clinton County, Illinois",Mental Health,1
+17029,"Coles County, Illinois",Primary Care,2
+17029,"Coles County, Illinois",Dental,2
+17029,"Coles County, Illinois",Mental Health,0
+17031,"Cook County, Illinois",Primary Care,2
+17031,"Cook County, Illinois",Dental,2
+17031,"Cook County, Illinois",Mental Health,2
+17033,"Crawford County, Illinois",Primary Care,2
+17033,"Crawford County, Illinois",Dental,2
+17033,"Crawford County, Illinois",Mental Health,1
+17035,"Cumberland County, Illinois",Primary Care,0
+17035,"Cumberland County, Illinois",Dental,1
+17035,"Cumberland County, Illinois",Mental Health,1
+17037,"DeKalb County, Illinois",Primary Care,2
+17037,"DeKalb County, Illinois",Dental,2
+17037,"DeKalb County, Illinois",Mental Health,1
+17039,"De Witt County, Illinois",Primary Care,1
+17039,"De Witt County, Illinois",Dental,1
+17039,"De Witt County, Illinois",Mental Health,1
+17041,"Douglas County, Illinois",Primary Care,2
+17041,"Douglas County, Illinois",Dental,2
+17041,"Douglas County, Illinois",Mental Health,1
+17043,"DuPage County, Illinois",Primary Care,2
+17043,"DuPage County, Illinois",Dental,2
+17043,"DuPage County, Illinois",Mental Health,2
+17045,"Edgar County, Illinois",Primary Care,1
+17045,"Edgar County, Illinois",Dental,1
+17045,"Edgar County, Illinois",Mental Health,1
+17047,"Edwards County, Illinois",Primary Care,1
+17047,"Edwards County, Illinois",Dental,1
+17047,"Edwards County, Illinois",Mental Health,1
+17049,"Effingham County, Illinois",Primary Care,2
+17049,"Effingham County, Illinois",Dental,0
+17049,"Effingham County, Illinois",Mental Health,1
+17051,"Fayette County, Illinois",Primary Care,2
+17051,"Fayette County, Illinois",Dental,2
+17051,"Fayette County, Illinois",Mental Health,1
+17053,"Ford County, Illinois",Primary Care,2
+17053,"Ford County, Illinois",Dental,0
+17053,"Ford County, Illinois",Mental Health,1
+17055,"Franklin County, Illinois",Primary Care,2
+17055,"Franklin County, Illinois",Dental,2
+17055,"Franklin County, Illinois",Mental Health,1
+17057,"Fulton County, Illinois",Primary Care,2
+17057,"Fulton County, Illinois",Dental,2
+17057,"Fulton County, Illinois",Mental Health,1
+17059,"Gallatin County, Illinois",Primary Care,1
+17059,"Gallatin County, Illinois",Dental,2
+17059,"Gallatin County, Illinois",Mental Health,1
+17061,"Greene County, Illinois",Primary Care,2
+17061,"Greene County, Illinois",Dental,2
+17061,"Greene County, Illinois",Mental Health,1
+17063,"Grundy County, Illinois",Primary Care,0
+17063,"Grundy County, Illinois",Dental,0
+17063,"Grundy County, Illinois",Mental Health,1
+17065,"Hamilton County, Illinois",Primary Care,1
+17065,"Hamilton County, Illinois",Dental,2
+17065,"Hamilton County, Illinois",Mental Health,1
+17067,"Hancock County, Illinois",Primary Care,2
+17067,"Hancock County, Illinois",Dental,2
+17067,"Hancock County, Illinois",Mental Health,1
+17069,"Hardin County, Illinois",Primary Care,1
+17069,"Hardin County, Illinois",Dental,2
+17069,"Hardin County, Illinois",Mental Health,1
+17071,"Henderson County, Illinois",Primary Care,2
+17071,"Henderson County, Illinois",Dental,2
+17071,"Henderson County, Illinois",Mental Health,1
+17073,"Henry County, Illinois",Primary Care,1
+17073,"Henry County, Illinois",Dental,0
+17073,"Henry County, Illinois",Mental Health,1
+17075,"Iroquois County, Illinois",Primary Care,2
+17075,"Iroquois County, Illinois",Dental,2
+17075,"Iroquois County, Illinois",Mental Health,1
+17077,"Jackson County, Illinois",Primary Care,2
+17077,"Jackson County, Illinois",Dental,2
+17077,"Jackson County, Illinois",Mental Health,1
+17079,"Jasper County, Illinois",Primary Care,0
+17079,"Jasper County, Illinois",Dental,2
+17079,"Jasper County, Illinois",Mental Health,1
+17081,"Jefferson County, Illinois",Primary Care,2
+17081,"Jefferson County, Illinois",Dental,2
+17081,"Jefferson County, Illinois",Mental Health,1
+17083,"Jersey County, Illinois",Primary Care,1
+17083,"Jersey County, Illinois",Dental,2
+17083,"Jersey County, Illinois",Mental Health,1
+17085,"Jo Daviess County, Illinois",Primary Care,0
+17085,"Jo Daviess County, Illinois",Dental,0
+17085,"Jo Daviess County, Illinois",Mental Health,1
+17087,"Johnson County, Illinois",Primary Care,1
+17087,"Johnson County, Illinois",Dental,2
+17087,"Johnson County, Illinois",Mental Health,1
+17089,"Kane County, Illinois",Primary Care,2
+17089,"Kane County, Illinois",Dental,2
+17089,"Kane County, Illinois",Mental Health,2
+17091,"Kankakee County, Illinois",Primary Care,2
+17091,"Kankakee County, Illinois",Dental,0
+17091,"Kankakee County, Illinois",Mental Health,1
+17093,"Kendall County, Illinois",Primary Care,0
+17093,"Kendall County, Illinois",Dental,0
+17093,"Kendall County, Illinois",Mental Health,0
+17095,"Knox County, Illinois",Primary Care,2
+17095,"Knox County, Illinois",Dental,2
+17095,"Knox County, Illinois",Mental Health,1
+17097,"Lake County, Illinois",Primary Care,2
+17097,"Lake County, Illinois",Dental,2
+17097,"Lake County, Illinois",Mental Health,2
+17099,"LaSalle County, Illinois",Primary Care,2
+17099,"LaSalle County, Illinois",Dental,2
+17099,"LaSalle County, Illinois",Mental Health,1
+17101,"Lawrence County, Illinois",Primary Care,2
+17101,"Lawrence County, Illinois",Dental,2
+17101,"Lawrence County, Illinois",Mental Health,1
+17103,"Lee County, Illinois",Primary Care,1
+17103,"Lee County, Illinois",Dental,2
+17103,"Lee County, Illinois",Mental Health,1
+17105,"Livingston County, Illinois",Primary Care,2
+17105,"Livingston County, Illinois",Dental,2
+17105,"Livingston County, Illinois",Mental Health,1
+17107,"Logan County, Illinois",Primary Care,1
+17107,"Logan County, Illinois",Dental,2
+17107,"Logan County, Illinois",Mental Health,1
+17109,"McDonough County, Illinois",Primary Care,2
+17109,"McDonough County, Illinois",Dental,2
+17109,"McDonough County, Illinois",Mental Health,1
+17111,"McHenry County, Illinois",Primary Care,0
+17111,"McHenry County, Illinois",Dental,0
+17111,"McHenry County, Illinois",Mental Health,1
+17113,"McLean County, Illinois",Primary Care,2
+17113,"McLean County, Illinois",Dental,2
+17113,"McLean County, Illinois",Mental Health,1
+17115,"Macon County, Illinois",Primary Care,2
+17115,"Macon County, Illinois",Dental,2
+17115,"Macon County, Illinois",Mental Health,1
+17117,"Macoupin County, Illinois",Primary Care,1
+17117,"Macoupin County, Illinois",Dental,2
+17117,"Macoupin County, Illinois",Mental Health,1
+17119,"Madison County, Illinois",Primary Care,2
+17119,"Madison County, Illinois",Dental,0
+17119,"Madison County, Illinois",Mental Health,1
+17121,"Marion County, Illinois",Primary Care,2
+17121,"Marion County, Illinois",Dental,2
+17121,"Marion County, Illinois",Mental Health,1
+17123,"Marshall County, Illinois",Primary Care,1
+17123,"Marshall County, Illinois",Dental,0
+17123,"Marshall County, Illinois",Mental Health,1
+17125,"Mason County, Illinois",Primary Care,1
+17125,"Mason County, Illinois",Dental,2
+17125,"Mason County, Illinois",Mental Health,1
+17127,"Massac County, Illinois",Primary Care,2
+17127,"Massac County, Illinois",Dental,2
+17127,"Massac County, Illinois",Mental Health,1
+17129,"Menard County, Illinois",Primary Care,0
+17129,"Menard County, Illinois",Dental,1
+17129,"Menard County, Illinois",Mental Health,1
+17131,"Mercer County, Illinois",Primary Care,1
+17131,"Mercer County, Illinois",Dental,0
+17131,"Mercer County, Illinois",Mental Health,1
+17133,"Monroe County, Illinois",Primary Care,0
+17133,"Monroe County, Illinois",Dental,0
+17133,"Monroe County, Illinois",Mental Health,1
+17135,"Montgomery County, Illinois",Primary Care,2
+17135,"Montgomery County, Illinois",Dental,2
+17135,"Montgomery County, Illinois",Mental Health,1
+17137,"Morgan County, Illinois",Primary Care,2
+17137,"Morgan County, Illinois",Dental,2
+17137,"Morgan County, Illinois",Mental Health,1
+17139,"Moultrie County, Illinois",Primary Care,1
+17139,"Moultrie County, Illinois",Dental,2
+17139,"Moultrie County, Illinois",Mental Health,1
+17141,"Ogle County, Illinois",Primary Care,1
+17141,"Ogle County, Illinois",Dental,0
+17141,"Ogle County, Illinois",Mental Health,1
+17143,"Peoria County, Illinois",Primary Care,2
+17143,"Peoria County, Illinois",Dental,2
+17143,"Peoria County, Illinois",Mental Health,1
+17145,"Perry County, Illinois",Primary Care,2
+17145,"Perry County, Illinois",Dental,2
+17145,"Perry County, Illinois",Mental Health,1
+17147,"Piatt County, Illinois",Primary Care,0
+17147,"Piatt County, Illinois",Dental,0
+17147,"Piatt County, Illinois",Mental Health,1
+17149,"Pike County, Illinois",Primary Care,1
+17149,"Pike County, Illinois",Dental,2
+17149,"Pike County, Illinois",Mental Health,1
+17151,"Pope County, Illinois",Primary Care,1
+17151,"Pope County, Illinois",Dental,2
+17151,"Pope County, Illinois",Mental Health,1
+17153,"Pulaski County, Illinois",Primary Care,1
+17153,"Pulaski County, Illinois",Dental,2
+17153,"Pulaski County, Illinois",Mental Health,1
+17155,"Putnam County, Illinois",Primary Care,1
+17155,"Putnam County, Illinois",Dental,1
+17155,"Putnam County, Illinois",Mental Health,1
+17157,"Randolph County, Illinois",Primary Care,2
+17157,"Randolph County, Illinois",Dental,2
+17157,"Randolph County, Illinois",Mental Health,1
+17159,"Richland County, Illinois",Primary Care,2
+17159,"Richland County, Illinois",Dental,2
+17159,"Richland County, Illinois",Mental Health,1
+17161,"Rock Island County, Illinois",Primary Care,2
+17161,"Rock Island County, Illinois",Dental,2
+17161,"Rock Island County, Illinois",Mental Health,1
+17163,"St. Clair County, Illinois",Primary Care,2
+17163,"St. Clair County, Illinois",Dental,2
+17163,"St. Clair County, Illinois",Mental Health,1
+17165,"Saline County, Illinois",Primary Care,2
+17165,"Saline County, Illinois",Dental,2
+17165,"Saline County, Illinois",Mental Health,1
+17167,"Sangamon County, Illinois",Primary Care,2
+17167,"Sangamon County, Illinois",Dental,2
+17167,"Sangamon County, Illinois",Mental Health,2
+17169,"Schuyler County, Illinois",Primary Care,1
+17169,"Schuyler County, Illinois",Dental,2
+17169,"Schuyler County, Illinois",Mental Health,1
+17171,"Scott County, Illinois",Primary Care,1
+17171,"Scott County, Illinois",Dental,2
+17171,"Scott County, Illinois",Mental Health,1
+17173,"Shelby County, Illinois",Primary Care,1
+17173,"Shelby County, Illinois",Dental,2
+17173,"Shelby County, Illinois",Mental Health,1
+17175,"Stark County, Illinois",Primary Care,2
+17175,"Stark County, Illinois",Dental,0
+17175,"Stark County, Illinois",Mental Health,1
+17177,"Stephenson County, Illinois",Primary Care,2
+17177,"Stephenson County, Illinois",Dental,2
+17177,"Stephenson County, Illinois",Mental Health,2
+17179,"Tazewell County, Illinois",Primary Care,2
+17179,"Tazewell County, Illinois",Dental,2
+17179,"Tazewell County, Illinois",Mental Health,1
+17181,"Union County, Illinois",Primary Care,2
+17181,"Union County, Illinois",Dental,2
+17181,"Union County, Illinois",Mental Health,1
+17183,"Vermilion County, Illinois",Primary Care,2
+17183,"Vermilion County, Illinois",Dental,2
+17183,"Vermilion County, Illinois",Mental Health,1
+17185,"Wabash County, Illinois",Primary Care,1
+17185,"Wabash County, Illinois",Dental,1
+17185,"Wabash County, Illinois",Mental Health,1
+17187,"Warren County, Illinois",Primary Care,2
+17187,"Warren County, Illinois",Dental,2
+17187,"Warren County, Illinois",Mental Health,1
+17189,"Washington County, Illinois",Primary Care,1
+17189,"Washington County, Illinois",Dental,0
+17189,"Washington County, Illinois",Mental Health,1
+17191,"Wayne County, Illinois",Primary Care,2
+17191,"Wayne County, Illinois",Dental,2
+17191,"Wayne County, Illinois",Mental Health,1
+17193,"White County, Illinois",Primary Care,2
+17193,"White County, Illinois",Dental,2
+17193,"White County, Illinois",Mental Health,1
+17195,"Whiteside County, Illinois",Primary Care,2
+17195,"Whiteside County, Illinois",Dental,2
+17195,"Whiteside County, Illinois",Mental Health,1
+17197,"Will County, Illinois",Primary Care,2
+17197,"Will County, Illinois",Dental,2
+17197,"Will County, Illinois",Mental Health,1
+17199,"Williamson County, Illinois",Primary Care,2
+17199,"Williamson County, Illinois",Dental,2
+17199,"Williamson County, Illinois",Mental Health,1
+17201,"Winnebago County, Illinois",Primary Care,2
+17201,"Winnebago County, Illinois",Dental,2
+17201,"Winnebago County, Illinois",Mental Health,2
+17203,"Woodford County, Illinois",Primary Care,1
+17203,"Woodford County, Illinois",Dental,2
+17203,"Woodford County, Illinois",Mental Health,1
