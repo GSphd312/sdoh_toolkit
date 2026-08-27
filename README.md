@@ -15,21 +15,14 @@ Toolkit Parts:
 R Script Order:
 
 01_acs.R
-
 02_places.R
-
 03_svi_eji.R
-
 04_hrsa.R
-
 05_usda_nces_chr.R
-
 06_merge_all.R
-
 07_analysis.R
 
 Raw Data
-
 Raw source datasets are not included in this repository because some files are large.
 Follow the download instructions in Part 2 of the toolkit and save each file using
 the filename specified in the R workflow.
