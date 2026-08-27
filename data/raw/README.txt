@@ -6,7 +6,6 @@ Prepared raw data files:
  https://drive.google.com/drive/folders/1IcPLD4zsUFAwPADW5XRtIAiPieg387Wb?usp=sharing
 
 Included files:
-
 - SVI2022_US_county.csv
 - EJI_2024_US.csv
 - AHRF2025.csv
