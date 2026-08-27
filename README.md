@@ -21,6 +21,12 @@ R Script Order:
 06_merge_all.R
 07_analysis.R
 
+Raw Data
+
+Raw source datasets are not included in this repository because some files are large.
+Follow the download instructions in Part 2 of the toolkit and save each file using
+the filename specified in the R workflow.
+
 Users should follow the toolkit instructions to download source data,
 run the scripts, create their project outputs, and document their
 individual analysis.
