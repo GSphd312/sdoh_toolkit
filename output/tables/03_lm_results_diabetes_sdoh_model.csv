@@ -1,0 +1,7 @@
+term,estimate,std.error,statistic,p.value,conf.low,conf.high
+(Intercept),12.9795,0.5877,22.0858,0,11.8129,14.146
+poverty_rate,0.1403,0.0308,4.5477,0,0.079,0.2015
+pct_bachelor_plus,-0.0983,0.0122,-8.034,0,-0.1225,-0.074
+uninsured_rate,0.0157,0.0442,0.3554,0.7231,-0.0721,0.1035
+pct_lila_tracts,0.0078,0.0056,1.392,0.1671,-0.0033,0.0189
+social_associations,-0.005,0.0225,-0.2225,0.8244,-0.0496,0.0396

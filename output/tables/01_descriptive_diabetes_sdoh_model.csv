@@ -1,0 +1,7 @@
+variable,n,missing,mean,sd,min,median,max
+diabetes_pct,102,0,12.59,1.48,9.4,12.6,19
+pct_bachelor_plus,102,0,23.56,8.28,12.55,20.91,51.84
+pct_lila_tracts,102,0,19.12,19.81,0,16.67,100
+poverty_rate,102,0,12.58,3.89,5.02,12.55,24.98
+social_associations,102,0,14.07,4.68,0,13.87,29.65
+uninsured_rate,102,0,5.37,2.15,2.1,5.1,15.4
